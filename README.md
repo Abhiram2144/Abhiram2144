@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Abhiram2144
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently a student of CSE in CHANDIGARH UNIVERSITY
+- 🌱 I’m a Graduate of CSE from CHANDIGARH UNIVERSITY
 - 💞️ I’m looking to collaborate on Website Development
 - 📫 How to reach me - contact me from abhiram.sathiraju@gmail.com
 
