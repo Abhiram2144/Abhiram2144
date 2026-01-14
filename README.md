@@ -72,7 +72,7 @@ I value environments where learning, ownership, and practical impact matter.
 
 ## Let’s Connect  
 
-📧 Email: abhiramsathiraju@gmail.com  
+📧 Email: abhiram.sathiraju@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/abhiramsathiraju  
 💻 GitHub: https://github.com/Abhiram2144  
 
