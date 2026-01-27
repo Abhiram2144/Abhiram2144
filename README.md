@@ -1,79 +1,121 @@
 # Hi, I’m Abhiram Sathiraju 👋  
 
+🚀 Full Stack SaaS Developer | App Developer  
 🎓 Computer Science Postgraduate (Class of 2027)  
-💻 Aspiring Software Engineer | Backend • AI • Automation  
 📍 Leicester, United Kingdom  
 
 ---
 
-## About Me  
+## 🧠 About Me  
 
-I’m a Computer Science postgraduate student with hands-on experience building backend systems, automation tools, and data-driven applications. I enjoy designing systems end-to-end — from APIs and data pipelines to logic that supports real-world decision-making.
+I’m a **Full Stack SaaS developer** who builds complete digital products — from idea to production.  
+I design systems end-to-end: clean interfaces, scalable backends, intelligent logic, and real-world usable platforms.
 
-My interests lie at the intersection of **software engineering, AI, and automation**, especially where technology can reduce manual effort, improve efficiency, and scale reliably. I’m comfortable learning new tools quickly, working through ambiguity, and collaborating across technical and non-technical teams.
+My focus is on building **products that actually solve problems**, not just projects:
+- SaaS platforms  
+- AI-powered systems  
+- Automation tools  
+- Scalable applications  
+- Startup-grade architectures  
 
-I’m currently seeking **Summer 2026 internships**, **2026–2027 industrial placements**, and I’m also **open to freelance or short-term project-based work**, particularly in backend development, automation, and data-driven systems.
+I love working where **engineering meets impact** — where code becomes something people actually use.
+
+Currently open to:
+- **Summer 2026 Internships**
+- **2026–2027 Industrial Placements**
+- **Freelance & short-term SaaS / backend / AI projects**
+- **Startup collaborations**
 
 ---
 
-## What I Work With  
+## 🛠️ Tech Stack  
 
-**Languages & Development**
-- Python, JavaScript (Node.js), SQL  
-- Backend APIs (REST, FastAPI, Express)  
-- Object-Oriented Programming & Data Structures  
+### 💻 Languages
+- Python  
+- JavaScript / TypeScript  
+- SQL  
 
-**Software Engineering**
-- System design fundamentals  
-- Version control (Git/GitHub)  
-- Debugging, documentation, and clean code practices  
-- Agile & collaborative development  
+### 🎨 Frontend
+- React  
+- Next.js  
+- Tailwind CSS  
+- Modern UI systems  
+- Component-based architecture  
 
-**Data, AI & Automation**
+### 📱 App Development
+- Expo (React Native)  
+- Cross-platform mobile apps (iOS + Android)  
+- SaaS-connected mobile platforms  
+
+### 🧠 AI / ML
+- Python ML pipelines  
 - Data processing (Pandas, NumPy)  
-- Machine learning foundations (scikit-learn, PyTorch exposure)  
-- Feature engineering & evaluation  
-- Workflow automation and internal tools  
+- Model development & evaluation  
+- AI system integration into products  
+
+### ⚙️ Backend
+- Node.js  
+- Express  
+- REST APIs  
+- Auth systems  
+- Real-time systems  
+- Scalable backend architecture  
+
+### 🧩 Systems & Tools
+- Git & GitHub  
+- Docker  
+- Supabase / Firebase  
+- Cloud deployment  
+- System design fundamentals  
+- SaaS architecture patterns  
 
 ---
 
-## Selected Projects  
+## 🚀 What I Build  
 
-### 🔹 Communication Medium for University  
-Built a full-stack progressive web application to enable real-time, module-based communication for university students. The system includes secure OTP authentication, automated channel enrolment based on academic profiles, and an AI-powered moderation layer to maintain relevance in academic discussions. Designed for scalability and real-time messaging using modern backend architecture.
+### 🔹 Full Stack SaaS Platforms  
+End-to-end SaaS products with:
+- Auth systems  
+- Role-based access  
+- APIs  
+- Dashboards  
+- Payments-ready architecture  
+- Scalable infrastructure  
 
-### 🔹 AI-Based Outfit Recommendation System  
-Developed a personalised outfit recommendation engine using deep learning and vision models. The project uses CLIP embeddings to align clothing images with user attributes such as skin tone, body type, and style preferences, producing ranked outfit recommendations. Focused on model quality, evaluation workflows, and practical ML system design.
+### 🔹 AI-Powered Applications  
+Systems where AI is not a feature — it’s the core engine:
+- Recommendation systems  
+- Intelligent automation  
+- Decision-support systems  
+- AI-driven personalization  
 
-### 🔹 Retail Sales Forecasting & Analytics Dashboard  
-Worked on a data science project analysing large retail datasets to forecast sales trends. Built end-to-end pipelines for data cleaning, feature engineering, model training, and evaluation, and presented insights through interactive dashboards to support data-driven decision-making.
-
----
-
-## Experience  
-
-**Backend Developer Intern – Uniford**  
-- Contributed to backend services and REST APIs used in production systems  
-- Worked across the full software development lifecycle  
-- Collaborated in Agile teams, used Git-based workflows, and debugged cross-layer issues  
-
----
-
-## What I’m Looking For  
-
-I’m particularly interested in roles involving:
-- Backend systems and internal tooling  
-- Automation and AI-assisted workflows  
-- Data-driven software and decision-support systems  
-
-I value environments where learning, ownership, and practical impact matter.
+### 🔹 Mobile Apps  
+Cross-platform apps using Expo:
+- SaaS-connected apps  
+- AI-powered apps  
+- Productivity tools  
+- Platform-based architectures  
 
 ---
 
-## Let’s Connect  
+## 🌱 Vision  
+
+I’m building toward becoming a **product-focused engineer** — someone who doesn’t just write code, but creates systems, platforms, and companies.
+
+My long-term path:
+> Engineer → Builder → Founder → Ecosystem Creator  
+
+Technology for me isn’t just engineering —  
+it’s **leverage, freedom, scale, and creation**.
+
+---
+
+## 🤝 Let’s Connect  
 
 📧 Email: abhiram.sathiraju@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/abhiramsathiraju  
 💻 GitHub: https://github.com/Abhiram2144  
 
-If you’re looking for help on a **freelance or short-term project**, feel free to reach out.
+If you're building something meaningful —  
+a startup, a SaaS product, an AI platform, or a real-world system —  
+I’d love to collaborate 🤍
